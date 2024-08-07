@@ -1,3 +1,17 @@
+![image](https://github.com/user-attachments/assets/9c5c14b9-68cb-45e1-ac6a-c8b19b542ab6)
+![image](https://github.com/user-attachments/assets/d4588fc6-5525-4632-ad7b-17ca8d41f748)
+![image](https://github.com/user-attachments/assets/6de87ddd-feb7-4b98-a8ee-2c8829e70297)
+![image](https://github.com/user-attachments/assets/6031afd8-c8e8-4f7e-afcd-f79637382349)
+![image](https://github.com/user-attachments/assets/2ce6c6bf-aaef-4a85-bb03-7dd7b60bf64f)
+![image](https://github.com/user-attachments/assets/f7873993-d49d-455e-af4c-90908d561e25)
+![image](https://github.com/user-attachments/assets/c97069ae-6311-4b23-9a51-7d9c7359f795)
+
+text compare onlne
+![image](https://github.com/user-attachments/assets/34b54ae7-b4aa-459f-b376-a441d36d2d37)
+
+final exel sheet
+![image](https://github.com/user-attachments/assets/9073462d-9152-4bae-b590-b61e6e486369)
+
 ```
 aws_accessanalyzer_analyzer
 gcp_alloydb_cluster 
