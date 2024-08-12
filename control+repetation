@@ -360,4 +360,3 @@
     codebuild_project_plaintext_env_variables_no_sensitive_aws_values,
     codebuild_project_source_repo_oauth_configured,
     config_enabled_all_regions
-    
